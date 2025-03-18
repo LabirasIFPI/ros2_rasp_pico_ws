@@ -9,8 +9,8 @@ Este repositório contém o código-fonte para um workspace ROS 2 contendo um pa
 ## Funcionalidades
 
 ### Requisições HTTP aceitas
-- Requisição GET para coleta dos dados de bateria ('/sensores').
-- Requisição PUT para envio de mensagens cmd_vel ('/atuadores').
+- Requisição GET para coleta dos dados de bateria (`/sensores`)
+- Requisição PUT para envio de mensagens cmd_vel (`/atuadores`)
 
 ## Configuração e Uso
 

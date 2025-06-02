@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'server_control = server_control.server_control:main',
+            'server_control_main = server_control.server_control_main:main',
         ],
     },
 )
